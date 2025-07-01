@@ -1,8 +1,5 @@
 👗 StyleUp – Flipkart Grid Submission
 
-StyleUp is a personalized fashion recommendation web app developed using Python and Flask. Created as a submission for **Flipkart Grid**, the project blends minimalist design with dynamic styling suggestions, aiming to enhance the online shopping experience through intuitive, visually engaging interfaces.
-
-
 🌟 Features
 
 - 🔍 Personalized style recommendations based on user interaction
