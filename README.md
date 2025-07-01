@@ -1,22 +1,52 @@
-👗 StyleUp – Flipkart Grid Submission
+# 👗 StyleUp – Personalized Fashion Recommendation System
 
-🌟 Features
+🚀 A smart, AI-powered fashion recommendation engine developed as a part of **Flipkart GRID** hackathon challenge. StyleUp analyzes user behavior, fashion preferences, and trends to offer a deeply personalized shopping experience.
 
-- 🔍 Personalized style recommendations based on user interaction
-- 🎨 Visually appealing user interface with fashion-themed aesthetics
-- ⚡ Lightweight and modular Flask backend
-- 🧵 CSS-enhanced responsive design
-- 🖼️ Static assets (images, backgrounds) included for a polished frontend
+---
 
+## 📌 Overview
 
+StyleUp aims to revolutionize online fashion shopping by delivering:
+- Intelligent product suggestions
+- Real-time trend adaptation
+- A visually rich user experience using modern web technologies
 
-🛠️ Tech Stack
+---
 
-- Backend: Python 3, Flask
-- Frontend: HTML5, CSS3, Jinja2 (Flask Templates)
-- Static Assets: Images, Custom Styles
-- Others: Virtualenv for environment management
+## 🧠 Features
 
+- 👤 **User Personalization** based on style preferences
+- 🛍️ **Smart Outfit Recommender** engine
+- 📈 **Trend-aware Ranking** for fashion items
+- 💅 Aesthetic and interactive UI/UX
+- 📊 Data-driven filtering and category prediction
+- 🔒 Login/Signup with session handling
 
+---
 
+## 🧰 Tech Stack
 
+| Frontend        | Backend           | ML/AI              | Miscellaneous    |
+|-----------------|-------------------|--------------------|------------------|
+| React.js        | Node.js + Express | Python (Flask model)| MongoDB, CSS     |
+
+---
+
+## 📁 Project Structure
+
+**Style_up/
+├── backend/
+│ └── [Flask API for recommendations]
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ └── App.js
+│ └── public/
+├── assets/
+├── dataset/
+├── model/
+│ └── [ML models for recommendation]
+├── .env.example
+├── README.md
+└── package.json**
